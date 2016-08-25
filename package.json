@@ -1,6 +1,6 @@
 {
   "name": "mutuca-pull-request",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Provides a Pull Request card to Mutuca",
   "main": "index.js",
   "author": "Leonardo Eloy",
