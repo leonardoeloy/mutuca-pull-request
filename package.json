@@ -1,0 +1,25 @@
+{
+  "name": "mutuca-pull-request",
+  "version": "1.0.0",
+  "description": "Provides a Pull Request card to Mutuca",
+  "main": "index.js",
+  "author": "Leonardo Eloy",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mutuca/mutuca-pull-request.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mutuca/mutuca-pull-request/issues"
+  },
+  "homepage": "https://github.com/mutuca/mutuca-pull-request",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "chai": "^2.3.0",
+    "mocha": "^2.2.4",
+    "proxyquire": "^1.4.0",
+    "sinon": "^1.14.1"
+  }
+}
